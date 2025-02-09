@@ -1,7 +1,7 @@
 # ai
 A curated list of ai-related articles
 
-## Comparions
+## Comparisons
 
 * [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides benchmarking and related information to support people & organizations in choosing the right model for their use-case and which provider to use for that model. 
 
