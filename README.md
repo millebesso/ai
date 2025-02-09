@@ -1,6 +1,10 @@
 # ai
 A curated list of ai-related articles
 
+## Comparions
+
+* [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides benchmarking and related information to support people & organizations in choosing the right model for their use-case and which provider to use for that model. 
+
 ## Engineering usage
 
 * [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) - _"Some days I mostly write typescript, some days mostly Go. I spent a week in a C++ codebase last month exploring an idea, and just had an opportunity to learn the HTTP server-side events format. I am all over the place, constantly forgetting and relearning."_
