@@ -16,6 +16,10 @@ A curated list of ai-related articles
 * [I quit my FAANG job because it'll be automated by the end of 2025 ](https://jagilley.github.io/faang-blog.html) - _"All in all, I think the evidence points to a scenario where by the end of this year or next, engineering and other pure knowledge work IC jobs can be mostly done by AI agents, with some fraction of the people who formerly held those IC jobs acting as de facto product managers cum infrastructure janitors for agent swarms. "_
 * [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13) - _"Stop AI coding sessions when you feel overwhelmed by what’s going on. Either revise your prompt and start a new session, or fall back to manual implementation - “artisanal coding”, as my colleague Steve Upton calls it."_
 
+## Identity
+
+* [AI agent identity: it's just OAuth](https://mayakaczorowski.com/blogs/ai-agent-authentication) - _"Either your OS will need to give you a reasonable way to limit what a local agent does, or an app will need to give you a reasonable way to separate ‘who’ is taking an action, or both."_
+
 ## Music
 
 * [Music AI Models](https://www.maximepeabody.com/blog/music-ai-models)
