@@ -25,6 +25,10 @@ A curated list of ai-related articles
 
 * [AI agent identity: it's just OAuth](https://mayakaczorowski.com/blogs/ai-agent-authentication) - _"Either your OS will need to give you a reasonable way to limit what a local agent does, or an app will need to give you a reasonable way to separate ‘who’ is taking an action, or both."_
 
+## Projects
+
+* [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1) - _"Although it did not take advantage of many lucrative opportunities (see below), Claudius did make several pivots in its business that were responsive to customers. An employee light-heartedly requested a tungsten cube, kicking off a trend of orders for “specialty metal items” (as Claudius later described them)."_
+
 ## Music
 
 * [Music AI Models](https://www.maximepeabody.com/blog/music-ai-models)
