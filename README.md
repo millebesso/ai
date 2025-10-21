@@ -4,6 +4,7 @@ A curated list of ai-related articles
 ## Theory 
 
 * [Deep dive into LLMs like ChatGPT](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr) - A TL;DR of a longer video (linked) of how LLMs work.
+* [Cartography of generative AI](https://cartography-of-generative-ai.net/) - Big map provding an overview of the LLM ecosystem.
 
 ## Comparisons
 
