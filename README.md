@@ -28,7 +28,7 @@ A curated list of ai-related articles
 * [You should write an agent](https://fly.io/blog/everyone-write-an-agent/) - _"Some concepts are easy to grasp in the abstract. Boiling water: apply heat and wait. Others you really need to try. You only think you understand how a bicycle works, until you learn to ride one. There are big ideas in computing that are easy to get your head around. The AWS S3 API. It’s the most important storage technology of the last 20 years, and it’s like boiling water. Other technologies, you need to get your feet on the pedals first. LLM agents are like that."_
 * [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) - _"Gemini 3 is a very good thinking and doing partner that is available to billions of people around the world...The era of the chatbot is turning into the era of the digital coworker."_
 * [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) - To be honest, I don't know if this is good advice or just advice. That said, keeping a file that describes a project and it's code base is never a bad thing.
-* [https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/](https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/) - This is a very well written piece on the experience of working with Claude for a full month. Lots of very good tips and tricks!
+* [A Month of Chat-Oriented Programming](https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/) - This is a very well written piece on the experience of working with Claude for a full month. Lots of very good tips and tricks!
 
 ## Identity
 
