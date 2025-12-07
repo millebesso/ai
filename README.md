@@ -29,6 +29,7 @@ A curated list of ai-related articles
 * [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) - _"Gemini 3 is a very good thinking and doing partner that is available to billions of people around the world...The era of the chatbot is turning into the era of the digital coworker."_
 * [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) - To be honest, I don't know if this is good advice or just advice. That said, keeping a file that describes a project and it's code base is never a bad thing.
 * [A Month of Chat-Oriented Programming](https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/) - This is a very well written piece on the experience of working with Claude for a full month. Lots of very good tips and tricks!
+* [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) - Possibly the best text I've read on using LLMs in a tech organization. Full of good tidbits such as the breakdown of the different roles LLMs can take and how to manage is of those roles.
 
 ## Identity
 
