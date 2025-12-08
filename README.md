@@ -30,6 +30,7 @@ A curated list of ai-related articles
 * [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) - To be honest, I don't know if this is good advice or just advice. That said, keeping a file that describes a project and it's code base is never a bad thing.
 * [A Month of Chat-Oriented Programming](https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/) - This is a very well written piece on the experience of working with Claude for a full month. Lots of very good tips and tricks!
 * [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) - Possibly the best text I've read on using LLMs in a tech organization. Full of good tidbits such as the breakdown of the different roles LLMs can take and how to manage is of those roles.
+* [Why Your CTO Might Start Coding Again](https://davegriffith.substack.com/p/why-your-cto-might-start-coding-again) - _"The brutal economics of $150/hour shaped everything about how we built software. Only developers could create code, there weren’t enough of them, and they couldn’t do it very fast. Every process, every tool, every org structure optimized around that constraint...Then agentic AI made code production nearly free, and a funny thing happened: all that “overhead” turned out to be the actual work."
 
 ## Identity
 
