@@ -9,6 +9,7 @@ A curated list of ai-related articles
 ## Comparisons
 
 * [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides benchmarking and related information to support people & organizations in choosing the right model for their use-case and which provider to use for that model. 
+* [Roblox' OpenGameEval](https://github.com/Roblox/open-game-eval/) - Roblox has an evaluation framework for testing LLMs on Roblox game develoment tasks and keep a leaderboard of the results.
 
 ## Engineering usage
 
@@ -33,7 +34,6 @@ A curated list of ai-related articles
 * [Why Your CTO Might Start Coding Again](https://davegriffith.substack.com/p/why-your-cto-might-start-coding-again) - _"The brutal economics of $150/hour shaped everything about how we built software. Only developers could create code, there weren’t enough of them, and they couldn’t do it very fast. Every process, every tool, every org structure optimized around that constraint...Then agentic AI made code production nearly free, and a funny thing happened: all that “overhead” turned out to be the actual work."_
 * [Has the cost of building software dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/) - Yet we don't see a large amount of seemingly low-cost, perhaps slightly good-enough offerings that are replacing existing apps or at least competing with them. Similarly with open source projects which is often the frontier for these types of shifts.
 * [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/) - A very interesting breakdown of writing a pure Python html-parser using primarily agents but based on a pre-existing set of tests. Goes through the different steps in the development process and the role of the developer vs. the role of the Agent(s).
-* [Roblox' OpenGameEval](https://github.com/Roblox/open-game-eval/) - Roblox has an evaluation framework for testing LLMs on Roblox game develoment tasks and keep a leaderboard of the results.
 
 ## Identity
 
